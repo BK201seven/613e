@@ -1,0 +1,7 @@
+insulator 
+insulator_stringdrop
+insulator_breakage
+insulator_flashover
+damper
+damper_defect
+nest
